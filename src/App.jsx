@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      {/* <Alert msg={4} /> */}
+      <Alert msg={4} />
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
