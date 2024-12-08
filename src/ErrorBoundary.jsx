@@ -1,7 +1,7 @@
 import React from 'react';
 
 /**
- * @Watchman (React):
+ * @Watchman (ErrorBoundary):
  *    - Constantly monitors the building for any accidents or disturbances.
  *    - Responsibility: If something goes wrong (e.g., an accident on the 3rd floor), the watchman detects it and alerts the response team (error boundary).
  * @getDerivedStateFromError (Incident Alarm system):
